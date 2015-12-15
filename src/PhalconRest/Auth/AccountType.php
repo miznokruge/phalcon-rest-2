@@ -1,5 +1,7 @@
 <?php
 
+// Modified by thyoity
+
 namespace PhalconRest\Auth;
 
 interface AccountType
