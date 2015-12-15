@@ -21,4 +21,5 @@ Please file issues under GitHub, or submit a pull request if you'd like to direc
 ## Changelog ##
 
 *1.0.2* Fixed some errors and added authentication via e-mail
+
 *1.0.1* Cloning project from [olivierandriessen/phalcon-rest](https://github.com/olivierandriessen/phalcon-rest)
