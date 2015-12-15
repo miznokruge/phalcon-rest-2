@@ -1,7 +1,4 @@
 #Phalcon REST#
-<a href="http://phalconist.com/olivierandriessen/phalcon-rest" target="_blank">
-![Phalcon REST Library](http://phalconist.com/olivierandriessen/phalcon-rest/default.svg)
-</a>
 
 *A flexible library, consisting of interchangeable classes made for the modern REST API.*
 
@@ -15,28 +12,13 @@
 ## Installing ##
 Install using Composer. Not all dependencies are required.
 ````
-composer install olivierandriessen/phalcon-rest
+composer install thyoity/phalcon-rest
 ````
-
-## Boilerplate ##
-For a full implementation of the library, check out the [Boilerplate application](https://github.com/olivierandriessen/phalcon-rest-boilerplate).
-
-## External links ##
-Blog on [Getting Started with Phalcon REST](http://olivierandriessen.com/getting-started-with-phalcon-rest/)
 
 ## Contributing ##
 Please file issues under GitHub, or submit a pull request if you'd like to directly contribute.
 
 ## Changelog ##
 
-*1.0.1* Update README
-*1.0.0* Stable release with several improvements
-*0.0.4* Release unfinished but stable version  
-*0.0.3* Added Auth/Account/Email, changed user registration flow  
-*0.0.2* Major changes  
-*0.0.1* Major changes  
-
-###Todo###
-* ~~Convert indentation to spaces~~
-* DocBlocks
-* PSR-2 coding standard
+*1.0.2* Fixed some errors and added authentication via e-mail
+*1.0.1* Cloning project from [olivierandriessen/phalcon-rest](https://github.com/olivierandriessen/phalcon-rest)
